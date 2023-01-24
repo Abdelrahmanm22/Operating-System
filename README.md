@@ -15,8 +15,8 @@
   ready queue is Empty and must notify all other threads.
   
   ## Project 2 (CPU Schedulers Simulator)
-    * Write a java program to simulate the following schedulers:
-    1. **preemptive Shortest- Job First (SJF) Scheduling with context switching**
-    2. **Round Robin (RR) with context switching**
-    3. ** preemptive Priority Scheduling (with the solving of starvation problem**
-    4. ** AG Scheduling :**
+   * Write a java program to simulate the following schedulers:
+   1. **preemptive Shortest- Job First (SJF) Scheduling with context switching**
+   2. **Round Robin (RR) with context switching**
+   3. ** preemptive Priority Scheduling (with the solving of starvation problem**
+   4. ** AG Scheduling :**
