@@ -20,4 +20,5 @@
    2. **Round Robin (RR) with context switching**
    3. **preemptive Priority Scheduling (with the solving of starvation problem**
    4. **AG Scheduling :**
-          a.  Each process is provided a static time to execute called quantum.
+   
+    a.  Each process is provided a static time to execute called quantum.
